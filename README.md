@@ -21,15 +21,20 @@ Setup instructions:
 For use on mobile device:
 
 1 - Download apk onto mobile device
+
 2 - Install the apk
+
 3 - Click on the newly added ZenBuddy application to launch the app
 
 
 To view the code:
 
 1 - Download and unzip the folder
+
 2 - Cut and paste the project into the android studio project folder -> "C:\Users\"your pc username"\AndroidStudioProjects"
+
 3 - Open Android studio and select Open to open the program -> navigate the window to find the project now saved in the Android Studio Projects folder and select it 
+
 4 - The program should open and the code will now be accessible for review
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -38,6 +43,7 @@ Pre-created account credentials:
 ***Please note, an admin account has been provided***
 
 Email address: admin@admin.com
+
 Password: admin1234@
 
 The application will come with sufficient pre-populated data to fully display the applications capabilities
