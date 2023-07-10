@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/fragment_slideshow.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/simple_list_item_with_image.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/simple_list_item_with_image.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/entry_popup_for_graph.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/entry_popup_for_graph.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_startup_splash.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_startup_splash.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/nav_header_main.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_login.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_view_item.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_view_item.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/app_bar_main.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_entry_list.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_entry_list.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_capture_entry.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_capture_entry.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/fragment_home.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_profile_page.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_profile_page.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_register.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/legend_item.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/legend_item.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/content_main.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/campopup.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/campopup.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_graph.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_graph.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/profile_pic_selector.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/profile_pic_selector.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_splash.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_about.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_add_category.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_add_category.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/simple_list_item_1.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/simple_list_item_1.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/fragment_gallery.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/simple_recycler_item.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/simple_recycler_item.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_habit_tracker.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_habit_tracker.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_main.xml"
+    }
+]

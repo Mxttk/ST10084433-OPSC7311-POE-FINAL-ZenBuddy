@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StartupSplash"
+    android:background="@color/mint">
+
+    <ImageView
+        android:id="@+id/imageViewLogo"
+        android:layout_width="216dp"
+        android:layout_height="146dp"
+        android:contentDescription="@string/logo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.153"
+        app:srcCompat="@drawable/logoclearbg"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/buttonSignIn"
+        android:layout_width="213dp"
+        android:layout_height="57dp"
+        android:backgroundTint="@color/light_green"
+        android:text="@string/sign_in"
+        android:textColor="#616161"
+        android:onClick="loginUser"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewLogo"
+        app:layout_constraintVertical_bias="0.093" />
+
+    <Button
+        android:id="@+id/buttonRegister"
+        android:layout_width="213dp"
+        android:layout_height="57dp"
+        android:backgroundTint="@color/light_green"
+        android:text="@string/register"
+        android:textColor="#616161"
+        android:onClick="regUser"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSignIn"
+        app:layout_constraintVertical_bias="0.041" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

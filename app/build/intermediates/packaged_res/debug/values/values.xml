@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#4f6c52</color>
+    <color name="ic_launcher_background">#B4F2D7</color>
+    <color name="light_green">#a0eecc</color>
+    <color name="mint">#b4f2d7</color>
+    <color name="moss_green">#5f9c72</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="soft_ivory">#e6e3db</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="textColour">#616161</color>
+    <color name="warm_brown">#8b5a33</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="about">About</string>
+    <string name="about_Heading">About</string>
+    <string name="about_descrip">\n Hi :) \n\n My name is Shroomy and I\'ll be your personal assistant and companion on your mental wellness journey! \n\n
+                                 Here at ZenBuddy we aim to provide our users with an experience that aids in documenting personal growth
+                                 through providing ways to visualise their successes and shortcomings.</string>
+    <string name="about_descrip_two">\n\n\n We aim to uplift and encourage
+                                 our user\'s through positive reinforcement as your happiness is our end goal! :)</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">+</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="anxiety">Anxiety</string>
+    <string name="app_name">ZenBuddy-ST10084433</string>
+    <string name="back_to_menu">back to menu</string>
+    <string name="by_matthew_kidwell">By Matthew Kidwell</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">CANCEL</string>
+    <string name="capture">Capture</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="count">Count: </string>
+    <string name="current_user">Current user:</string>
+    <string name="current_user_profile_name">Hi,</string>
+    <string name="default_web_client_id" translatable="false">312199640880-jai45bp97sjj5pa7cbqatdfqjnab77h4.apps.googleusercontent.com</string>
+    <string name="depression">Depression</string>
+    <string name="email_address">Email address</string>
+    <string name="enter_new_tag_name">Enter new tag name:</string>
+    <string name="entries">Entries</string>
+    <string name="entries_list">Entries list</string>
+    <string name="gcm_defaultSenderId" translatable="false">312199640880</string>
+    <string name="google_api_key" translatable="false">AIzaSyDmADsaJ2Gi0pRAmg6DqT8K4QeHjA4nXCs</string>
+    <string name="google_app_id" translatable="false">1:312199640880:android:5a2be5c3b11189e5f43af5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDmADsaJ2Gi0pRAmg6DqT8K4QeHjA4nXCs</string>
+    <string name="google_storage_bucket" translatable="false">zenbuddy-st10084433.appspot.com</string>
+    <string name="graph">Graph</string>
+    <string name="habit_tracker">Habit Tracker</string>
+    <string name="habit_tracker_title">Habit Tracker</string>
+    <string name="lap">lap</string>
+    <string name="log_new_entry">Log new entry</string>
+    <string name="login">Login</string>
+    <string name="logo">logo</string>
+    <string name="low_energy">Low energy</string>
+    <string name="low_social_battery">Low social battery</string>
+    <string name="mental_notes">Mental notes</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="new_tag">New Tag</string>
+    <string name="password">Password</string>
+    <string name="picture">Picture</string>
+    <string name="project_id" translatable="false">zenbuddy-st10084433</string>
+    <string name="recent_entries">Recent entries</string>
+    <string name="register">Register</string>
+    <string name="register_reg">Register</string>
+    <string name="registration">Registration</string>
+    <string name="reset">reset</string>
+    <string name="sad">Sad</string>
+    <string name="select_the_tag_tag_s_that_apply">Select a tag that applies:</string>
+    <string name="sign_in">Sign in</string>
+    <string name="splash">Splash</string>
+    <string name="st10084433_vcconnect_edu_za">st10084433@vcconnect.edu.za</string>
+    <string name="start">Start</string>
+    <string name="stress">Stress</string>
+    <string name="submit">Submit</string>
+    <string name="take_a_picture">Take a picture!</string>
+    <string name="take_a_picture_or_upload_an_image">Take a picture or upload an image</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_zenbuddy">Welcome to ZenBuddy!</string>
+    <style name="Theme.ZenBuddyST10084433" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/mint</item>
+        <item name="colorPrimaryVariant">@color/light_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/light_green</item>
+        
+        <item name="colorControlActivated">@color/light_green</item>
+    </style>
+    <style name="Theme.ZenBuddyST10084433.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.ZenBuddyST10084433.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.ZenBuddyST10084433.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

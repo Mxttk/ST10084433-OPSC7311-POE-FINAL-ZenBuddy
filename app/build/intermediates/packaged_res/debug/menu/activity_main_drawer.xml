@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/abt"
+            android:title="@string/about"
+            app:itemTextColor="@color/mint"
+            app:itemBackground="?attr/colorControlActivated"/>
+
+        <item
+            android:id="@+id/nav_Capture"
+            android:icon="@drawable/baseline_library_add_24"
+            android:title="@string/log_new_entry"
+            app:itemTextColor="@color/mint" />
+
+        <item
+            android:id="@+id/nav_List"
+            android:icon= "@drawable/baseline_format_list_bulleted_24"
+            android:title="@string/entries_list"
+            app:itemTextColor="@color/mint" />
+
+        <item
+            android:id="@+id/nav_Graph"
+            android:icon= "@drawable/baseline_auto_graph_24"
+            android:title="@string/graph"
+            app:itemTextColor="@color/mint" />
+
+        <item
+            android:id="@+id/nav_habitTracker"
+            android:icon= "@drawable/baseline_smoking_rooms_24"
+            android:title="@string/habit_tracker"
+            app:itemTextColor="@color/mint" />
+
+
+    </group>
+</menu>

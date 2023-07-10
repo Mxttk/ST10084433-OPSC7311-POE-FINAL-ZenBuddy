@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".About"
+    android:background="@color/mint">
+
+    <ImageView
+        android:id="@+id/imageViewShroomy"
+        android:layout_width="283dp"
+        android:layout_height="266dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.89"
+        app:srcCompat="@drawable/shroomygreencapclearbg" />
+
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="555dp"
+            android:layout_alignBottom="@+id/imageViewShroomy"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="81dp"
+            android:layout_marginTop="190dp"
+            android:layout_marginEnd="-81dp"
+            android:layout_marginBottom="-348dp"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.971"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.208"
+            app:srcCompat="@drawable/speech_bubble_two"
+            tools:ignore="NotSibling" />
+
+
+        <TextView
+            android:id="@+id/textViewAboutDescrip"
+            android:layout_width="140dp"
+            android:layout_height="519dp"
+            android:layout_alignStart="@+id/imageView3"
+            android:layout_alignTop="@+id/imageView3"
+            android:layout_alignEnd="@+id/imageView3"
+            android:layout_alignBottom="@+id/imageView3"
+            android:layout_marginStart="145dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginEnd="126dp"
+            android:layout_marginBottom="35dp"
+            android:fontFamily="casual"
+            android:text="@string/about_descrip"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            tools:ignore="VisualLintLongText" />
+
+        <TextView
+            android:id="@+id/textViewAboutDescripTwo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/textViewAboutDescrip"
+            android:layout_alignTop="@+id/textViewAboutDescrip"
+            android:layout_alignEnd="@+id/textViewAboutDescrip"
+            android:paddingTop="5dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="-1dp"
+            android:layout_marginTop="325dp"
+            android:layout_marginEnd="1dp"
+            android:layout_marginBottom="-254dp"
+            android:fontFamily="casual"
+            android:text="@string/about_descrip_two"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            tools:ignore="VisualLintLongText" />
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

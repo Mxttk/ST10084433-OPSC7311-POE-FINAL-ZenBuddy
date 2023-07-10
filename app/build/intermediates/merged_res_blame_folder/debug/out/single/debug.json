@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_fragment_gallery.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/menu_main.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/menu/main.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_about.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_capture_entry.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_capture_entry.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_content_main.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_login.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_register.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_add.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_add.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_fragment_slideshow.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_profile_page.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_profile_page.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_error_outline_24.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_error_outline_24.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_auto_graph_24.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_auto_graph_24.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_splash.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_library_add_24.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_library_add_24.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_logo.jpeg.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/logo.jpeg"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_graph.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_graph.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_startup_splash.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_startup_splash.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_main.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_view_item.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_view_item.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_login.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/login.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_legend_item.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/legend_item.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_item_bg.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/item_bg.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_profile_pic_selector.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/profile_pic_selector.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_speech_bubble_two.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/speech_bubble_two.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_app_bar_main.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/anim_bounce_melt.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/anim/bounce_melt.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_abt.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/abt.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_speech_bubble.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/speech_bubble.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_timer.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/timer.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_add_category.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_add_category.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_simple_recycler_item.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/simple_recycler_item.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_reg.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/reg.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_nav_header_main.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/xml_backup_rules.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_campopup.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/campopup.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_logoclearbg.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/logoclearbg.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_shroomygreencapclearbg.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/shroomygreencapclearbg.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_entry_popup_for_graph.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/entry_popup_for_graph.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_fragment_home.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_password_24.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_password_24.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_habit_tracker.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_habit_tracker.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/menu_activity_main_drawer.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_simple_list_item_with_image.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/simple_list_item_with_image.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_simple_list_item_1.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/simple_list_item_1.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_camera_alt_24.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_close_24.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_close_24.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_sd_storage_24.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_sd_storage_24.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/layout_activity_entry_list.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/layout/activity_entry_list.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_format_list_bulleted_24.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/anim_fade_in.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_smoking_rooms_24.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_smoking_rooms_24.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_baseline_account_box_24.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/baseline_account_box_24.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/drawable_profile_pic.xml.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/drawable/profile_pic.xml"
+    },
+    {
+        "merged": "com.example.zenbuddy_st10084433.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.zenbuddy_st10084433.app-main-57:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

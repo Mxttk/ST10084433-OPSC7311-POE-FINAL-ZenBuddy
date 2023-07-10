@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HabitTracker"
+    android:orientation="vertical"
+    android:background="@color/mint">
+
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:background="@color/light_green"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/buttonResetHabit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/textColour"
+            android:text="@string/reset" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="casual"
+            android:textStyle="bold"
+            android:textSize="23sp"
+            android:paddingTop="4dp"
+            android:text="@string/habit_tracker_title"
+            tools:layout_editor_absoluteX="82dp"
+            tools:layout_editor_absoluteY="60dp" />
+
+        <Button
+            android:id="@+id/buttonStartHabitTracker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/textColour"
+            android:text="@string/start"
+            android:layout_gravity="end"
+            android:layout_marginEnd="15dp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:id="@+id/textViewHabitTimer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="60sp"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:text="@string/_00_00_00" />
+
+
+</LinearLayout>
